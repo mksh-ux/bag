@@ -1,5 +1,5 @@
 public class newfile {
     public static void main(String[] args) {
-        System.out.println("hello new file");
+        System.out.println("this is my new file");
     }
 }
